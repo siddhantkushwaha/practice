@@ -1,2 +1,3 @@
-# practice
+# Practice
+
 My practice codespace repo.
